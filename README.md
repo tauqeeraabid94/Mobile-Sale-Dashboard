@@ -58,5 +58,5 @@ Compare payment preferences
 Monitor regional performance
 
 screenshorts 
-
+https://github.com/tauqeeraabid94/Mobile-Sale-Dashboard/blob/main/Mobile%20Sale%20Dashboard%20.png
 
