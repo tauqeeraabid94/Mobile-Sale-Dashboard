@@ -59,5 +59,5 @@ Monitor regional performance
 
 screenshorts 
 
-show that the dashboard looks like. - ![Alt text](https://github.com/tauqeeraabid94/Mobile-Sale-Dashboard/blob/main/Mobile%20Sale%20Dashboard%20.png)
+show that the dashboard looks like. - ![Alt text](https://github.com/tauqeeraabid94/Mobile-Sale-Dashboard/blob/b96c122a8a22226cd3cd85d8390c2829c3ace837/Mobile%20Sale%20Dashboard%20.png)
 
